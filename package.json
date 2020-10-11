@@ -1,0 +1,27 @@
+{
+  "name": "use-font-face-ready",
+  "version": "1.0.0",
+  "description": "react hook for document fonts ready",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HawkeyePierce89/use-font-face-ready.git"
+  },
+  "keywords": [
+    "react",
+    "font"
+  ],
+  "bugs": {
+    "url": "https://github.com/HawkeyePierce89/use-font-face-ready/issues"
+  },
+  "homepage": "https://github.com/HawkeyePierce89/use-font-face-ready",
+  "author": {
+    "name": "Anton Karmanov",
+    "email": "anton@karmanov.ws",
+    "url": "https://karmanov.ws"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
