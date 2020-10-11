@@ -9,6 +9,8 @@ or
 
 `yarn add use-font-face-ready`
 
+![meme](./meme.jpeg?raw=true)
+
 ## Usage
 
 Easy Cheese
@@ -16,7 +18,7 @@ Easy Cheese
 ```javascript
 
 import React from "react";
-import useFontFaceReady from "useFontFaceReady";
+import useFontFaceReady from "use-font-face-ready";
 
 export default function App() {
   const ready = useFontFaceReady();
@@ -28,3 +30,7 @@ export default function App() {
   );
 }
 ```
+
+## Demo
+
+https://codesandbox.io/s/quizzical-haibt-z4mgk

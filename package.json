@@ -1,6 +1,6 @@
 {
   "name": "use-font-face-ready",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react hook for document fonts ready",
   "main": "index",
   "repository": {
